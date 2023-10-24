@@ -65,7 +65,7 @@
 			<!-- Carro 5 Execultivo de Luxo -->
 			<div class="col-md-4">
 				<div class="card" style="width: 20rem;">
-				  	<img src="image/carros/carro05.png" class="card-img-top" alt="...">
+				  	<img src="image/carros/carro5.png" class="card-img-top" alt="...">
 				  	<div class="card-body">
 					    <h5 class="card-title">Execultivo de Luxo</h5>
 					    <p class="card-text">Para apaixonados por carros potentes, sofisticados e elegantes.</p>
